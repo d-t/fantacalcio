@@ -1,5 +1,5 @@
 # Fantasy Football Data Analysis
-A blog post was created to explain the details of this project.
+A blog post was created to explain the details of this project. [English version available here](https://medium.com/@davide.totaro/a-simple-method-to-predict-player-performance-using-fantasy-football-data-8b2d3adb3a1a), Italian [here](https://medium.com/@davide.totaro/i-migliori-giocatori-della-stagione-fantacalcio-2017-2018-secondo-i-dati-c2ce55dca29b).
 
 
 ## Overview
